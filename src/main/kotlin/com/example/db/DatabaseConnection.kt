@@ -8,6 +8,6 @@ object DatabaseConnection{
         url = "jdbc:mysql://127.0.0.1:3306/quotes",
         driver = "com.mysql.cj.jdbc.Driver",
         user  = "root",
-        password = "" // password
+        password = "rooti9" // password
     )
 }
